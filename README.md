@@ -17,4 +17,6 @@ Encapsulation- We may tie the data and functions of a class into an object via e
 
 
 Inheritance- The concept allows us to inherit or acquire the properties of an existing class (parent class) into a newly created class (child class). It is known as inheritance. It provides code reusability.
-polymorphism
+
+
+Polymorphism-POLy and morphs are the two terms from which the word polymorphism is formed. Both poly and morphs refer to forms. It enables us to design methods that share a name but have various method signatures. It enables the developer to produce code that is clear, logical, legible, and robust.
