@@ -26,3 +26,4 @@ Polymorphism-Poly and morphs are the two terms from which the word polymorphism 
 The code begins with a Welcome message for the user.
 
 Some inline functions are written.
+An inline function is one for which the compiler copies the code from the function definition directly into the code of the calling function rather than creating a separate set of instructions in memory. This eliminates call-linkage overhead and can expose significant optimization opportunities.
