@@ -20,3 +20,9 @@ Inheritance- The concept allows us to inherit or acquire the properties of an ex
 
 
 Polymorphism-Poly and morphs are the two terms from which the word polymorphism is formed. Both poly and morphs refer to forms. It enables us to design methods that share a name but have various method signatures. It enables the developer to produce code that is clear, logical, legible, and robust.
+
+
+
+The code begins with a Welcome message for the user.
+
+Some inline functions are written.
