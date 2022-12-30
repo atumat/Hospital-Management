@@ -1,4 +1,3 @@
-
 Object-oriented programming is essentially a concept or technique for computer programming that models software architecture around data or objects rather than functions and logic.A data field is referred to as an object if it has distinct characteristics and behaviour. In OOP, everything is categorised as objects.
 
 
