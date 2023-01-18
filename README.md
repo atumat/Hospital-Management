@@ -11,6 +11,7 @@ Among developers, it is the most often used programming paradigm. Large, complic
 
 The key ideas that were  referred are  the pillars of OOPs. The foundation of OOP consists of four pillars.
 
+
 Abstraction-
 The idea enables us to present the user only the most important information while hiding the implementation from them. Using the concept ,developer updates  quickly over time.
 
