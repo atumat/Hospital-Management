@@ -27,7 +27,7 @@ Object-oriented programming is essentially a concept or technique for computer p
 
 Among developers, it is the most often used programming paradigm. Large, complicated, and actively updated or maintained programmes work well with it. It provides fundamental ideas like abstraction, inheritance, polymorphism, and encapsulation, which make programme creation and maintenance easier. These fundamental ideas define OOP.
 
-![image](https://user-images.githubusercontent.com/116307514/218166840-350e6312-48dd-4b74-897f-048048f99982.png)
+
 
 
 
