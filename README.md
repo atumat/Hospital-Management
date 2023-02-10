@@ -20,39 +20,7 @@ The catch statement allows you to define a block of code to be executed, if an e
 
 
 
-The code begins with a Welcome message for the user.
 
-Some inline functions are written.
-
-
-
-An inline function is one for which the compiler copies the code from the function definition directly into the code of the calling function rather than creating a separate set of instructions in memory. This eliminates call-linkage overhead and can expose significant optimization opportunities.
-
-
-Constructor in C++ is a special method that is invoked automatically at the time of object creation. It is used to initialize the data members of new objects generally.
-The constructor in C++ has the same name as the class or structure.It is invoked at the time of object creation. It constructs the values i.e. provides data for the 
-object which is why it is known as constructors.
-
-
-Some characteristics of constructors-
-
-Constructor has the same name as the class it belongs to.
-
-
-Although it is possible, constructors are often declared in the class's public section. However, this isn't a must.
-
-Because constructors don't return values, they lack a return type.
-
-When we create a class object, the function Object() is immediately invoked.
-Over
-Declaring a function Object() { [native code] } virtual is not permitted.
-
-
-One cannot inherit a function Object()
-
-Constructor addresses cannot be referenced to.
-
-When allocating memory, the function Object() makes implicit calls to the new and delete operators.
 
 
 
