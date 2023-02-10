@@ -1,3 +1,21 @@
+<h1>Hospital Management System</h1>
+ 
+ <p align="center">
+<img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
+<img src="https://img.shields.io/badge/C++-orange">
+<img src="https://img.shields.io/badge/contributions-Welcome-brightgreen">
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+</p>
+
+<p align="justify">
+Hospital Management System is a system enabling hospitals to manage information and data related to all aspects of healthcare – processes, providers, patients, and more.
+ </p>
+
+
+
+
+
+
 Object-oriented programming is essentially a concept or technique for computer programming that models software architecture around data or objects rather than functions and logic.A data field is referred to as an object if it has distinct characteristics and behaviour. In OOP, everything is categorised as objects.
 
 
