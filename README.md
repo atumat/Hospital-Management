@@ -1,4 +1,7 @@
 <h1>Hospital Management System</h1>
+
+Hospital Management System is a system enabling hospitals to manage information and data related to all aspects of healthcare – processes, providers, patients, and more.
+
  
  <p align="center">
 <img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
@@ -13,7 +16,7 @@
   <img width="460" height="300"src="https://user-images.githubusercontent.com/116307514/218166840-350e6312-48dd-4b74-897f-048048f99982.png">
 </p>
  
- <
+ 
 
 <h2 >Object Oriented Programming </h2>
  <p align="justify">
