@@ -14,7 +14,8 @@ Hospital Management System is a system enabling hospitals to manage information 
  </p>
  
  <p align="center">
-  <img width="460" height="300"src="https://user-images.githubusercontent.com/116307514/218166840-350e6312-48dd-4b74-897f-048048f99982.png">
+
+  <img width="460" height="300"src="https://github.com/atumat/Hospital-Management/assets/116307514/58e40ca9-b793-4e92-aeff-b6560635c4b7.png">
 </p>
 
 <h2 >Object Oriented Programming </h2>
