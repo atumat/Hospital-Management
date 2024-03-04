@@ -12,6 +12,7 @@ Hospital Management System is a system enabling hospitals to manage information 
 
 
 
+
  <p align="center">
   <img width="460" height="300"src="https://user-images.githubusercontent.com/116307514/218166840-350e6312-48dd-4b74-897f-048048f99982.png">
 </p>
