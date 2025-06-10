@@ -36,19 +36,6 @@ User-defined data types called classes serve as the building blocks for specific
 
  
 
-Show more
-
-Conversation with Gemini
-
-add more content related to OOPS to the readme for this repo: https://github.com/atumat/Hospital-Management
-
-
-You're right! A Hospital Management System is a perfect example to showcase the power of Object-Oriented Programming (OOP). Here's a more detailed section focusing on the OOP aspects that you can add to your README.md file, drawing inspiration from common HMS designs:
-
-Object-Oriented Programming (OOP) Principles
-This Hospital Management System is designed with a strong emphasis on Object-Oriented Programming (OOP) principles, leveraging them to create a modular, scalable, and maintainable codebase.
-
-Core OOP Concepts Demonstrated:
 Classes and Objects:
 
 Classes serve as blueprints for real-world entities within the hospital environment. Examples include Patient, Doctor, Nurse, Appointment, Department, Bill, Medicine, etc.
@@ -71,8 +58,7 @@ Polymorphism:
 Method Overriding: Child classes provide their specific implementation for a method already defined in their parent class.
 Example: A Person class might have a generic displayDetails() method. Patient, Doctor, and Staff classes could override this method to display details relevant to their specific roles (e.g., Patient displays patientID and medicalHistory, Doctor displays specialization and workingHours).
 Virtual Functions (in C++ context): Used to achieve runtime polymorphism, allowing the correct method implementation to be called based on the actual object type at runtime, even when accessed through a base class pointer or reference.
-Example: A generateReport() method in the Hospital class could call a virtual getDetailsForReport() method on Person objects (which could be Patient or Doctor objects), and the appropriate getDetailsForReport() implementation for each type would be executed.
-Abstraction:
+
 
 Focuses on showing only the essential information and hiding the complex implementation details. This is achieved through abstract classes and interfaces.
 Example: An abstract User class might define common operations like login() and logout(), without specifying how each specific type of user (Admin, Doctor, Patient) implements these. The concrete Admin, Doctor, and Patient classes would then provide their specific login() implementations.
