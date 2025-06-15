@@ -1,7 +1,6 @@
 <h1>Hospital Management System</h1>
 
 Hospital Management System is a system enabling hospitals to manage information and data related to all aspects of healthcare – processes, providers, patients, and more. It is designed with a strong emphasis on Object-Oriented Programming (OOP) principles, leveraging them to create a modular, scalable, and maintainable code.
-
  
  <p align="center">
 <img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
