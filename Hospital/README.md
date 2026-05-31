@@ -163,21 +163,6 @@ scantime
 ---
 
 
-
----
-
-
-## Future Enhancements
-
-* Database integration using MySQL/PostgreSQL
-* File-based patient record storage
-* Doctor appointment scheduling
-* User authentication system
-* GUI using Qt or JavaFX
-* Hospital analytics dashboard
-* Pharmacy inventory management
-* Electronic Medical Records (EMR)
-
 ---
 
 
