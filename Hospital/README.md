@@ -162,43 +162,7 @@ scantime
 
 ---
 
-## Sample Workflow
 
-### Patient Admission
-
-```text
-Enter Name: John
-Enter Age: 30
-Enter Patient ID: 101
-
-New Patient Capacity: 499
-```
-
-### Employee Salary Calculation
-
-```text
-Employee Type: Doctor
-Hours Worked: 160
-
-Salary = 5000 × 160
-Salary = 800000
-```
-
-### Billing
-
-```text
-General Ward Charges:
-Fixed: 1000
-Variable: 500
-Days: 2
-
-ICU Charges:
-Fixed: 3000
-Variable: 1000
-Days: 2
-
-Total Charges Generated
-```
 
 ---
 
